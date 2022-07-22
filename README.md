@@ -13,9 +13,9 @@
 ## LinkList
 | Idx | Difficulty | Title |
 |-----|-----|-----|
-|19|||
-|24|||
-|25|||
+|19|M|Remove Nth Node From End of List|
+|24|M|Swap Nodes in Pairs|
+|25|H|Reverse Nodes in k-Group|
 |141|||
 |142|||
 |160|||
