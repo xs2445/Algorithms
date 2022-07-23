@@ -1,6 +1,6 @@
 # Algorithms
 
-## Array
+## Array 
 | Idx | Difficulty | Title |
 |-----|-----|-----|
 |1|E|2 sum|
@@ -9,7 +9,8 @@
 |15|M|3 sum|
 |75|M|Sort Colors|
 |76|H|Minimum Window Substring|
-[2sum](./Array.ipynb)
+
+Python [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/xs2445/Algorithms/blob/main/Array.ipynb)
 
 ## LinkList
 | Idx | Difficulty | Title |
