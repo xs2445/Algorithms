@@ -9,7 +9,7 @@
 |15|M|3 sum|
 |75|M|Sort Colors|
 |76|H|Minimum Window Substring|
-[2sum](Algorithms/Array.ipynb)
+[2sum](Algorithms/blob/main/Array.ipynb)
 
 ## LinkList
 | Idx | Difficulty | Title |
