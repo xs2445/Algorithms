@@ -24,6 +24,8 @@ Python [![Open In Colab](https://colab.research.google.com/assets/colab-badge.sv
 |206|||
 |707|||
 
+Python [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/xs2445/Algorithms/blob/main/LinkList.ipynb)
+
 ## Stack
 | Idx | Difficulty | Title |
 |-----|-----|-----|
