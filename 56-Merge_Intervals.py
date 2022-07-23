@@ -9,6 +9,8 @@
 # Output: [[1,5]]
 # Explanation: Intervals [1,4] and [4,5] are considered overlapping.
 
+from typing import List
+
 class Solution:
     def merge(self, intervals: List[List[int]]) -> List[List[int]]:
         """sort by the start of intervals, then traverse to check overlap"""
