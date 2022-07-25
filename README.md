@@ -15,16 +15,17 @@ Python [![Open In Colab](https://colab.research.google.com/assets/colab-badge.sv
 ## LinkedList
 | Idx | Difficulty | Title |
 |-----|-----|-----|
+|707|M|Design Linked List|
 |19|M|Remove Nth Node From End of List|
+|206|E|Reverse Linked List|
+|92|M|Reverse Linked List II|
 |24|M|Swap Nodes in Pairs|
 |25|H|Reverse Nodes in k-Group|
-|141|||
-|142|||
-|160|||
-|206|||
-|707|||
+|141|E|Linked List Cycle|
+|142|M|Linked List Cycle II|
+|160|E|Intersection of Two Linked Lists|
 
-Python [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/xs2445/Algorithms/blob/main/LinkList.ipynb)
+Python [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/xs2445/Algorithms/blob/main/LinkedList.ipynb)
 
 ## Stack
 | Idx | Difficulty | Title |
@@ -36,6 +37,8 @@ Python [![Open In Colab](https://colab.research.google.com/assets/colab-badge.sv
 |239|||
 |703|||
 |1047|||
+
+Python [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/xs2445/Algorithms/blob/main/Stack.ipynb)
 
 ## String
 | Idx | Difficulty | Title |
