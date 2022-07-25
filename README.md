@@ -1,4 +1,4 @@
-# Algorithms
+# Data Structure and Algorithms
 
 ## Array 
 | Idx | Difficulty | Title |
