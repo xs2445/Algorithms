@@ -12,7 +12,7 @@
 
 Python [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/xs2445/Algorithms/blob/main/Array.ipynb)
 
-## LinkList
+## LinkedList
 | Idx | Difficulty | Title |
 |-----|-----|-----|
 |19|M|Remove Nth Node From End of List|
