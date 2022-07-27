@@ -30,13 +30,13 @@ Python [![Open In Colab](https://colab.research.google.com/assets/colab-badge.sv
 ## Stack
 | Idx | Difficulty | Title |
 |-----|-----|-----|
-|20|||
-|150|||
-|225|||
-|232|||
-|239|||
-|703|||
-|1047|||
+|225|E|Implement Stack using Queues|
+|232|E|Implement Queue using Stacks|
+|20|M|Valid Parentheses|
+|150|M|Evaluate Reverse Polish Notation|
+|239|H|Sliding Window Maximum|
+|703|E|Kth Largest Element in a Stream|
+|1047|E|Remove All Adjacent Duplicates In String|
 
 Python [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/xs2445/Algorithms/blob/main/Stack.ipynb)
 
