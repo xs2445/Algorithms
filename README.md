@@ -59,14 +59,14 @@ Python [![Open In Colab](https://colab.research.google.com/assets/colab-badge.sv
 ## BinaryTree
 | Idx | Difficulty | Title |
 |-----|-----|-----|
-|94|||
-|101|||
-|102|||
-|104|||
-|105|||
-|114|||
-|236|||
-|543|||
+|94|E|Binary Tree Inorder Traversal|
+|101|E|Symmetric Tree|
+|102|M|Binary Tree Level Order Traversal|
+|104|E|Maximum Depth of Binary Tree|
+|105|M|Construct Binary Tree from Preorder and Inorder Traversal|
+|114|M|Flatten Binary Tree to Linked List|
+|236|M|Lowest Common Ancestor of a Binary Tree|
+|543|E|Diameter of Binary Tree|
 
 ## BinarySearchTree
 | Idx | Difficulty | Title |
