@@ -43,18 +43,18 @@ Python [![Open In Colab](https://colab.research.google.com/assets/colab-badge.sv
 ## String
 | Idx | Difficulty | Title |
 |-----|-----|-----|
-|151|||
-|344|||
-|541|||
+|151|M|Reverse Words in a String|
+|344|M|Reverse String|
+|541|E|Reverse String II|
 
 ## HashTable
 | Idx | Difficulty | Title |
 |-----|-----|-----|
-|1|||
-|15|||
-|18|||
-|49|||
-|242|||
+|1|E|2 Sum|
+|15|M|3 Sum|
+|18|M|4 sum|
+|49|M|Group Anagrams|
+|242|E|Valid Anagram|
 
 ## BinaryTree
 | Idx | Difficulty | Title |
