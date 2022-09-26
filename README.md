@@ -47,6 +47,8 @@ Python [![Open In Colab](https://colab.research.google.com/assets/colab-badge.sv
 |344|M|Reverse String|
 |541|E|Reverse String II|
 
+Python [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/xs2445/Algorithms/blob/main/String.ipynb)
+
 ## HashTable
 | Idx | Difficulty | Title |
 |-----|-----|-----|
@@ -55,6 +57,8 @@ Python [![Open In Colab](https://colab.research.google.com/assets/colab-badge.sv
 |18|M|4 sum|
 |49|M|Group Anagrams|
 |242|E|Valid Anagram|
+
+Python [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/xs2445/Algorithms/blob/main/HashTable.ipynb)
 
 ## BinaryTree
 | Idx | Difficulty | Title |
@@ -68,25 +72,32 @@ Python [![Open In Colab](https://colab.research.google.com/assets/colab-badge.sv
 |236|M|Lowest Common Ancestor of a Binary Tree|
 |543|E|Diameter of Binary Tree|
 
+Python [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/xs2445/Algorithms/blob/main/BinaryTree.ipynb)
+
 ## BinarySearchTree
 | Idx | Difficulty | Title |
 |-----|-----|-----|
-|96|||
-|98|||
-|235|||
+|96|M|Unique Binary Search Trees|
+|98|M|Validate Binary Search Tree|
+|235|M|Lowest Common Ancestor of a Binary Search Tree|
+
+Python [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/xs2445/Algorithms/blob/main/BinarySearchTree.ipynb)
 
 ## Recursion & DivideAndConquer & BackTracking
 | Idx | Difficulty | Title |
 |-----|-----|-----|
-|17|||
-|22|||
-|39|||
-|46|||
-|78|||
-|79|||
-|226|||
+|17|M|Letter Combinations of a Phone Number|
+|22|M|Generate Parentheses|
+|39|M|Combination Sum|
+|46|M|Permutations|
+|78|M|Subsets|
+|79|M|*Word Search|
+|226|H|Invert Binary Tree|
+|493|H|Reverse Pairs|
 
-# Greedy
+Python [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/xs2445/Algorithms/blob/main/Recursion_&_DivideAndConquer_&_BackTracking.ipynb)
+
+## Greedy
 | Idx | Difficulty | Title |
 |-----|-----|-----|
 |11|||
